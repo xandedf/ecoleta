@@ -1,5 +1,5 @@
 ![](https://img.shields.io/github/stars/xandedf/ecoleta) ![](https://img.shields.io/github/forks/xandedf/ecoleta) ![](https://img.shields.io/github/tag/xandedf/ecoleta) ![](https://img.shields.io/github/release/xandedf/ecoleta) ![](https://img.shields.io/github/issues/xandedf/ecoleta) ![](https://img.shields.io/github/repo-size/xandedf/ecoleta)
-
+![GitHub](https://img.shields.io/github/license/xandedf/ecoleta)
 ![](https://img.shields.io/github/commit-activity/w/xandedf/ecoleta)
 
 # Ecoleta
@@ -22,6 +22,11 @@ Projeto Ecoleta utilizou-se das seguintes tecnologias
 * [Express] - Para implementação Web
 * [Expo] - Para implementação do APP
 * entre outros...
+
+### Rodando aplicação
+
+- Server
+
 
 ### TODOs
 
