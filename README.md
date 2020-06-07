@@ -26,7 +26,22 @@ Projeto Ecoleta utilizou-se das seguintes tecnologias
 ### Rodando aplicação
 
 - Server
+```sh
+$ cd server
+$ npm run dev
+```
 
+- Web
+```sh
+$ cd web
+$ npm start
+```
+
+- mobile
+```sh
+$ cd mobile
+$ npm start
+```
 
 ### TODOs
 
