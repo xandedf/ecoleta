@@ -1,3 +1,7 @@
+![](https://img.shields.io/github/stars/xandedf/ecoleta) ![](https://img.shields.io/github/forks/xandedf/ecoleta) ![](https://img.shields.io/github/tag/xandedf/ecoleta) ![](https://img.shields.io/github/release/xandedf/ecoleta) ![](https://img.shields.io/github/issues/xandedf/ecoleta) ![](https://img.shields.io/github/repo-size/xandedf/ecoleta)
+
+![](https://img.shields.io/github/commit-activity/w/xandedf/ecoleta)
+
 # Ecoleta
 Projeto desenvolvido durante da Next Level Week #01 da RocketSeat (Node.js / React / React.native)
 
