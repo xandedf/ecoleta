@@ -29,6 +29,8 @@ Projeto Ecoleta utilizou-se das seguintes tecnologias
 ```sh
 $ cd server
 $ npm run dev
+$ npm run knex:migrate
+$ npm run knex:seed
 ```
 
 - Web
@@ -37,7 +39,7 @@ $ cd web
 $ npm start
 ```
 
-- mobile
+- Mobile
 ```sh
 $ cd mobile
 $ npm start
