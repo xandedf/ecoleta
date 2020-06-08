@@ -19,8 +19,12 @@ Projeto Ecoleta utilizou-se das seguintes tecnologias
 
 * [knex.js] - Criação de queries para o banco de dados;
 * [path] - Componente para se resolver paths no Node.js;
-* [Express] - Para implementação Web
-* [Expo] - Para implementação do APP
+* [Express] - Para implementação Web;
+* [Expo] - Para implementação do APP;
+* [sqlite3] - Banco de dados;
+* [cors] - Permissões de acesso a API;
+* [celebrate] - Para validação dos campos no backend;
+* [multer] - Responsável pelo uploads de arquivos
 * entre outros...
 
 ### Rodando aplicação
