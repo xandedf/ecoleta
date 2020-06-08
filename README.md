@@ -45,7 +45,7 @@ $ cd mobile
 $ npm start
 ```
 
-### TODOs
+### TODOs (Desafios)
 
 - Implementar restrições de campos no frontend;
 - Criar um ambiente de admin CRUD de pontos de coleta;
